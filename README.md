@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/shwetam119/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1470-shuffle-the-array](https://github.com/shwetam119/DSA/tree/master/1470-shuffle-the-array) |
 | [1539-kth-missing-positive-number](https://github.com/shwetam119/DSA/tree/master/1539-kth-missing-positive-number) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/shwetam119/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/shwetam119/DSA/tree/master/0875-koko-eating-bananas) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/shwetam119/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/shwetam119/DSA/tree/master/1539-kth-missing-positive-number) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/shwetam119/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/shwetam119/DSA/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/shwetam119/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shwetam119/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/shwetam119/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Bit Manipulation
 |  |
 | ------- |
