@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/shwetam119/DSA/tree/master/0007-reverse-integer) |
 | [0367-valid-perfect-square](https://github.com/shwetam119/DSA/tree/master/0367-valid-perfect-square) |
 ## Dynamic Programming
 |  |
