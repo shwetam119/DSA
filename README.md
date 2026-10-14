@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/shwetam119/DSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/shwetam119/DSA/tree/master/2540-minimum-common-value) |
 | [2643-row-with-maximum-ones](https://github.com/shwetam119/DSA/tree/master/2643-row-with-maximum-ones) |
+| [2798-number-of-employees-who-met-the-target](https://github.com/shwetam119/DSA/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/shwetam119/DSA/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3925-concatenate-array-with-reverse](https://github.com/shwetam119/DSA/tree/master/3925-concatenate-array-with-reverse) |
 ## Binary Search
