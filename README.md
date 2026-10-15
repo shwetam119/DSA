@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/shwetam119/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/shwetam119/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1470-shuffle-the-array](https://github.com/shwetam119/DSA/tree/master/1470-shuffle-the-array) |
+| [1480-running-sum-of-1d-array](https://github.com/shwetam119/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/shwetam119/DSA/tree/master/1512-number-of-good-pairs) |
 | [1539-kth-missing-positive-number](https://github.com/shwetam119/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/shwetam119/DSA/tree/master/1901-find-a-peak-element-ii) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/shwetam119/DSA/tree/master/0410-split-array-largest-sum) |
+| [1480-running-sum-of-1d-array](https://github.com/shwetam119/DSA/tree/master/1480-running-sum-of-1d-array) |
 ## Matrix
 |  |
 | ------- |
