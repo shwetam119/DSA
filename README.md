@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/shwetam119/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/shwetam119/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1470-shuffle-the-array](https://github.com/shwetam119/DSA/tree/master/1470-shuffle-the-array) |
+| [1512-number-of-good-pairs](https://github.com/shwetam119/DSA/tree/master/1512-number-of-good-pairs) |
 | [1539-kth-missing-positive-number](https://github.com/shwetam119/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/shwetam119/DSA/tree/master/1901-find-a-peak-element-ii) |
 | [1929-concatenation-of-array](https://github.com/shwetam119/DSA/tree/master/1929-concatenation-of-array) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/shwetam119/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shwetam119/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0409-longest-palindrome](https://github.com/shwetam119/DSA/tree/master/0409-longest-palindrome) |
+| [1512-number-of-good-pairs](https://github.com/shwetam119/DSA/tree/master/1512-number-of-good-pairs) |
 | [2540-minimum-common-value](https://github.com/shwetam119/DSA/tree/master/2540-minimum-common-value) |
 ## Sorting
 |  |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1512-number-of-good-pairs](https://github.com/shwetam119/DSA/tree/master/1512-number-of-good-pairs) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/shwetam119/DSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3467-transform-array-by-parity](https://github.com/shwetam119/DSA/tree/master/3467-transform-array-by-parity) |
 ## Math
@@ -127,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/shwetam119/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/shwetam119/DSA/tree/master/0009-palindrome-number) |
 | [0367-valid-perfect-square](https://github.com/shwetam119/DSA/tree/master/0367-valid-perfect-square) |
+| [1512-number-of-good-pairs](https://github.com/shwetam119/DSA/tree/master/1512-number-of-good-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
