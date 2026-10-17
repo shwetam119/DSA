@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2798-number-of-employees-who-met-the-target](https://github.com/shwetam119/DSA/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/shwetam119/DSA/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3467-transform-array-by-parity](https://github.com/shwetam119/DSA/tree/master/3467-transform-array-by-parity) |
+| [3701-compute-alternating-sum](https://github.com/shwetam119/DSA/tree/master/3701-compute-alternating-sum) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/shwetam119/DSA/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3925-concatenate-array-with-reverse](https://github.com/shwetam119/DSA/tree/master/3925-concatenate-array-with-reverse) |
 ## Binary Search
@@ -179,5 +180,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1929-concatenation-of-array](https://github.com/shwetam119/DSA/tree/master/1929-concatenation-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/shwetam119/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3701-compute-alternating-sum](https://github.com/shwetam119/DSA/tree/master/3701-compute-alternating-sum) |
 | [3925-concatenate-array-with-reverse](https://github.com/shwetam119/DSA/tree/master/3925-concatenate-array-with-reverse) |
 <!---LeetCode Topics End-->
