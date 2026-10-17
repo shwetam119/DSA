@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/shwetam119/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/shwetam119/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/shwetam119/DSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/shwetam119/DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2540-minimum-common-value](https://github.com/shwetam119/DSA/tree/master/2540-minimum-common-value) |
 | [2643-row-with-maximum-ones](https://github.com/shwetam119/DSA/tree/master/2643-row-with-maximum-ones) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/shwetam119/DSA/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/shwetam119/DSA/tree/master/0009-palindrome-number) |
 | [0367-valid-perfect-square](https://github.com/shwetam119/DSA/tree/master/0367-valid-perfect-square) |
 | [1512-number-of-good-pairs](https://github.com/shwetam119/DSA/tree/master/1512-number-of-good-pairs) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/shwetam119/DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
