@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/shwetam119/DSA/tree/master/2540-minimum-common-value) |
 | [2643-row-with-maximum-ones](https://github.com/shwetam119/DSA/tree/master/2643-row-with-maximum-ones) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/shwetam119/DSA/tree/master/2798-number-of-employees-who-met-the-target) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/shwetam119/DSA/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3467-transform-array-by-parity](https://github.com/shwetam119/DSA/tree/master/3467-transform-array-by-parity) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/shwetam119/DSA/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3925-concatenate-array-with-reverse](https://github.com/shwetam119/DSA/tree/master/3925-concatenate-array-with-reverse) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/shwetam119/DSA/tree/master/0409-longest-palindrome) |
 | [1512-number-of-good-pairs](https://github.com/shwetam119/DSA/tree/master/1512-number-of-good-pairs) |
 | [2540-minimum-common-value](https://github.com/shwetam119/DSA/tree/master/2540-minimum-common-value) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/shwetam119/DSA/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 ## Sorting
 |  |
 | ------- |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/shwetam119/DSA/tree/master/0367-valid-perfect-square) |
 | [1512-number-of-good-pairs](https://github.com/shwetam119/DSA/tree/master/1512-number-of-good-pairs) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/shwetam119/DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/shwetam119/DSA/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 ## Dynamic Programming
 |  |
 | ------- |
