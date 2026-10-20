@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/shwetam119/DSA/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3467-transform-array-by-parity](https://github.com/shwetam119/DSA/tree/master/3467-transform-array-by-parity) |
 | [3701-compute-alternating-sum](https://github.com/shwetam119/DSA/tree/master/3701-compute-alternating-sum) |
+| [3895-count-digit-appearances](https://github.com/shwetam119/DSA/tree/master/3895-count-digit-appearances) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/shwetam119/DSA/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3925-concatenate-array-with-reverse](https://github.com/shwetam119/DSA/tree/master/3925-concatenate-array-with-reverse) |
 ## Binary Search
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/shwetam119/DSA/tree/master/1512-number-of-good-pairs) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/shwetam119/DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/shwetam119/DSA/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3895-count-digit-appearances](https://github.com/shwetam119/DSA/tree/master/3895-count-digit-appearances) |
 ## Dynamic Programming
 |  |
 | ------- |
