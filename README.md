@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/shwetam119/DSA/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/shwetam119/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/shwetam119/DSA/tree/master/0009-palindrome-number) |
 | [0367-valid-perfect-square](https://github.com/shwetam119/DSA/tree/master/0367-valid-perfect-square) |
@@ -190,4 +191,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/shwetam119/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3701-compute-alternating-sum](https://github.com/shwetam119/DSA/tree/master/3701-compute-alternating-sum) |
 | [3925-concatenate-array-with-reverse](https://github.com/shwetam119/DSA/tree/master/3925-concatenate-array-with-reverse) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/shwetam119/DSA/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/shwetam119/DSA/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
